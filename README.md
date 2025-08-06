@@ -53,7 +53,7 @@ This file lists the cities and their geographic coordinates in the following for
 
 Edit the **Set run periods** and **Work periods for a day** sections in the main code:
 
-| Parametre | Tip     | Açıklama                       |
+| Parameter | Type     | Definition                       |
 | :-------- | :------- | :-------------------------------- |
 | `START_YEAR`      | `integer` | Start year of the run period |
 | `END_YEAR`      | `integer` | End year of the run period |
